@@ -11,3 +11,10 @@
 
 <a href='/aapl_time_series/aapl_time_series.ipynb'><img src='/aapl_time_series/aapl_graph.png' width = 250></a>
 
+3) Apple Stock Prices in Candle Chart
+
+<a href='/aapl_candle_chart/aapl_candle_chart.ipynb'><img src='/aapl_candle_chart/candlechart.png' width = 250></a>
+
+4) Word Cloud From the Pandas DataFrame
+
+<a href='/word_cloud/word_cloud.ipynb'><img src='/word_cloud/wordcloud.png' width = 250></a>
