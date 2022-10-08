@@ -9,5 +9,5 @@
 
 2) Apple Stock Prices in Time Series Graph Using Plotly
 
-<a href='/aapl_time_series/aapl_time_seriesm.ipynb'><img src='/aapl_time_series/aapl_graph.png' width = 250></a>
+<a href='/aapl_time_series/aapl_time_series.ipynb'><img src='/aapl_time_series/aapl_graph.png' width = 250></a>
 
