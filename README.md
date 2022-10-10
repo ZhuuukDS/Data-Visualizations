@@ -19,7 +19,7 @@ This is a way to analyze geospatial data, when we plot the latitude and longitud
 
 #### 5) Histogram and Density Plots with `Matplotlib` and `Selenium` <br>
 Histogram and density plots are a good way to quickly visualize and analyze the distribution of the dataset.<br>
-<a href='/dist_plot/hist_dens_plots.ipynb'><img src='/dist_plot/distplot.png' width = 250></a>
+<a href='dist_plot/hist_dens_plots .ipynb'><img src='/dist_plot/distplot.png' width = 250></a>
 
 #### 6) Radar Plot with `Plotly` <br>
 A radar plot is also known as a spider plot or a star plot. It is used to display multivariate data as a two-dimensional visualization of quantitative features that are represented on axes coming from the centre. <br>
