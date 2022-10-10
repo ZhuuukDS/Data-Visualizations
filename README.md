@@ -15,7 +15,7 @@ A choropleth map is a shaded map where the intensity of the colour indicates the
 
 #### 4) Data Visualization on Map with `Folium` <br>
 This is a way to analyze geospatial data, when we plot the latitude and longitude data on a map.<br>
-<a href='/data_map/data_on_map.ipynb'><img src='/data_map/map.png' width = 200></a>
+<a href='https://nbviewer.org/github/ZhuuukDS/Data-Visualizations/blob/main/data_map/data_on_map.ipynb'><img src='/data_map/map.png' width = 200></a>
 
 #### 5) Histogram and Density Plots with `Matplotlib` and `Selenium` <br>
 Histogram and density plots are a good way to quickly visualize and analyze the distribution of the dataset.<br>
