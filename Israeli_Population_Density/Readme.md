@@ -6,7 +6,7 @@ Using the `Kontur Inc.` population data, `R language`, and the `rayshader` libra
 #### Rendered Map from 3D
 ___
 
-<img src='titledl_plot_resized.png'>
+<img src='titled_plot_resized.png' width=600>
 
 ___
 #### Many Thanks to:
