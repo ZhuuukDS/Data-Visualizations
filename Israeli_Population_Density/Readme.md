@@ -11,7 +11,7 @@ ___
 ___
 #### Many Thanks to:
 
-- @Pecners for inspiration andtutorial 
+- @Pecners for inspiration and tutorial 
 - @tylermorganwall for `rayshader` and `rayrender` packages
 - Kontur Inc. for an opportunity to use huge data of world population 
 ___
