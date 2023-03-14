@@ -6,4 +6,4 @@ The idea of this project is to visualize the most common additional product name
 
 This approach can be used to evaluate the basis insights for marketing strategies and compaigns.
 
-<img src='bike_word_cloud.png' width=600>
+<img src='bike_cloud_small.png' width=600>
