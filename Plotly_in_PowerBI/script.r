@@ -1,17 +1,14 @@
 source('./r_files/flatten_HTML.r')
 
 ############### Library Declarations ###############
+
 libraryRequireInstall('ggplot2')
 libraryRequireInstall('plotly')
 
 library(plotly)
-
 library(ggplot2)
-
 library(htmlwidgets)
 
-
-##############################################
 
 ################### Actual code ####################
 
@@ -40,18 +37,15 @@ fig <- fig %>% layout(title = 'Customers Segmentation',
                                    zaxis = list(title = 'frequency')),
                       legend = list(itemsizing='constant'))
 
-fig
-
+############# Create and save widget ###############
 
 p = ggplotly(fig);
-
-################### Actual code #################### #################################################### ############# Create and save widget ###############
-
-
-
 internalSaveWidget(p, 'out.html');
+
 ####################################################
 
 ################ Reduce paddings ###################
+
 ReadFullFileReplaceString('out.html', 'out.html', ',"padding":[0-9]*,', ',"padding":0,')
+
 ####################################################
