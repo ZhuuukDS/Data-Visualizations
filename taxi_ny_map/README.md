@@ -8,6 +8,6 @@ Overall, the visualization tools used in this project were powerful and flexible
 
 <img src='data/all_gif.gif' width=400>
 
-<video width="560" height="315" controls>
-  <source src="https://raw.githubusercontent.com/ZhuuukDS/Data-Visualizations/main/taxi_ny_map/data/dynamic.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/93790312/229102954-5c04b922-feee-415d-a1ec-25c6cae44bd6.mp4
+
