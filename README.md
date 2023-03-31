@@ -1,4 +1,4 @@
-# The List of Interesting and Nice Data Visualizations
+# The List of Stunning Data Visualizations
 
 
 #### 1) Plot Millions of Recods on Map and Interactive Web App with `Datashader`, `Bokeh`, `Holoviews`, etc
