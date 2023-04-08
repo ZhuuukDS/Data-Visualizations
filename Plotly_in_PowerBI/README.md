@@ -14,6 +14,7 @@ ___
 
 <img src='thumb.png' width=600>
 
+___
 
 ### Here's a short tutorial how to create a custom Power BI visuals
 
