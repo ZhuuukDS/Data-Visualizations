@@ -19,7 +19,7 @@ ___
 
 
 1. Download from https://nodejs.org/ and install a `NodeJS` (don't be afraid, it's pretty simple 😊)
-<img src = 'nodejs.png' width=800>
+<img src = '/pics/nodejs.PNG' width=800>
 2. Install the `Power BI visual tools` - open Command Prompt (cmd) as admin user and type:
   <blockquote> npm install -g powerbi-visuals-tools </blockquote>
 3. In order to check the correctness of installation, type `pbiviz` in cmd. If everthing is OK, then you see the following:
@@ -31,7 +31,7 @@ you'll see something like this:
 5. This newly created folder consists of the multiple files/folders:
 <img src = 'folder.png' width=600>
 6. This is a folder that provides a template to create other R custom visuals, so check the file `script.r` inside the folder:
-<img src = 'script_r.png' width=600>
+<img src = 'pics/script_r.png' width=600>
 7. You should put the your `r` script inside the `Actual code` block. You can find my version [here](Plotly_in_PowerBI/script.r)
 8. Before creating a package from the `r` script, you should fill in some info into `pbiviz.json` file in any  text editor:
 <img src = 'pbiviz_json.png' width=600>
