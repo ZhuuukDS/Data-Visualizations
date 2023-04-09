@@ -4,6 +4,6 @@ A word cloud is a data visualization technique that shows the most used words in
 
 The idea of this project is to visualize the most common additional product names that people tend to buy together with the main product. The main sales product in our dataset is a Bike and related products are Clothing and Accessories.
 
-This approach can be used to evaluate the basis insights for marketing strategies and compaigns.
+This approach can be used to evaluate the basic insights for marketing strategies and campaigns.
 
 <img src='bike_cloud_small.png' width=600>
